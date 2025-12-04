@@ -27,7 +27,7 @@ Atualmente, estou criando projetos para evoluir meu portfólio e deixar meu GitH
 ## 📊 GitHub Stats
 
 
-## 🧰 Tech Stack
+## 🧰 Linguagens que utilizo
 
 ### Linguagens & Ferramentas
 
