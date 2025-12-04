@@ -20,21 +20,12 @@ Atualmente, estou criando projetos para evoluir meu portfólio e deixar meu GitH
 
 ## 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Gonçalves-blue?style=for-the-badge&logo=linkedin)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Gonçalves-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-gonçalvesfarias)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🧰 Tech Stack
 
@@ -51,6 +42,7 @@ Atualmente, estou criando projetos para evoluir meu portfólio e deixar meu GitH
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
+
 ### Ferramentas de Dashboard & ETL
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
@@ -58,7 +50,7 @@ Atualmente, estou criando projetos para evoluir meu portfólio e deixar meu GitH
 
 ---
 
-## ✨ Versículo do Dia
+## ✨ Versículo 
 
 _"Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará."_  
 **— Salmos 37:5**
